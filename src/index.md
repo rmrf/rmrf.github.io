@@ -1,14 +1,14 @@
 # Links About Me
- 
-[My Resume][3] 
 
-[Likedin Page][1] 
+[My Resume][3]
+
+[linkedin Page][1]
 
 [Github Page][2]
 
-[Twitter] [4]
+[Twitter][4]
 
-[Weibo] [5]
+[Weibo][5]
 
 
 [1]: http://cn.linkedin.com/in/ryanqian/
