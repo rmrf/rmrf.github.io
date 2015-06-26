@@ -1,7 +1,7 @@
 钱永超 / Ryan Qian
 ===
 * ryan.qian@gmail.com
-* +86-150-2135-1135
+* +86-150-2135-xxxx
 * Shanghai,China
 * Male, 1981
 
