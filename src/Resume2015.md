@@ -11,15 +11,19 @@ A geek, an Engineer, Unix/Linux related Tech. Python/Shell script.
 
 Enjoy Building Things and Troubleshooting
 
+2 Patents (China) applied.
+
+1 book translated from English to Chinese [OpenStack Operations Guide - OReilly][2] (publishing in progress)
+
 ###Experience###
 
 ** Cloud OPS architect ; Ctrip.com ; Shanghai, China; 2014.6-Present **
 
-    Openstack architect and OPS Site Admin. 
-    Manage Team
+    Openstack Architect and OPS Site Admin. 
+    Manage a small Team with 4 guys inside.
+
 
 ** Staff Unix System Admin (Site OPS); eBay Inc.;  Shanghai, China; 2010.2-2014.6 **
-	
 
 	Linux/Solaris Admin. eBay internal cloud Openstack Support. 
 	Some Tags here: (random order)
@@ -64,13 +68,10 @@ To build something Operational is what I targeting for, which can helping more p
 
 
 
-
 ###Links###
  
 
-[Github][2]
-[Likedin][1] 
+[Github][1]
 
-
-[1]: http://cn.linkedin.com/in/ryanqian/
-[2]: https://github.com/rmrf
+[1]: https://rmrf.github.io
+[2]: http://shop.oreilly.com/product/0636920032625.do
