@@ -17,7 +17,11 @@ Enjoy Building Things and Troubleshooting
 
 ###Experience###
 
-** Cloud OPS architect ; Ctrip.com ; Shanghai, China; 2014.6-Present **
+** Tech Partner ; Enggi.com ; Shanghai, China; 2015.9-Present **
+
+	Well, Try Somthing new. 
+
+** Cloud OPS architect ; Ctrip.com ; Shanghai, China; 2014.6-2015.9 **
 
     Openstack Architect and OPS Site Admin. 
     Manage a small Team with 4 guys inside.
@@ -75,4 +79,4 @@ To build something Operational is what I targeting for, which can helping more p
 
 [1]: https://rmrf.github.io
 [2]: http://shop.oreilly.com/product/0636920032625.do
-[3]: http://www.amazon.cn/OpenStack%E8%BF%90%E7%BB%B4%E6%8C%87%E5%8D%97-%E6%BE%B3-%E6%B3%95%E8%8F%B2%E5%B0%94%E5%BE%B7-%E7%BE%8E-%E5%BC%97%E8%8E%B1%E6%98%8E%E7%AD%89/dp/B013QBZRGQ/
+[3]: http://item.jd.com/11750072.html
