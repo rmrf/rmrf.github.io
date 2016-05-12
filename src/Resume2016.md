@@ -20,6 +20,7 @@ Enjoy Building Things and Troubleshooting
 ** Tech Partner ; Enggi.com ; Shanghai, China; 2015.9-Present **
 
 	Try Somthing new. 
+    Build Tech team from scratch, deliver website product.  
 
 ** Cloud OPS architect ; Ctrip.com ; Shanghai, China; 2014.6-2015.9 **
 
