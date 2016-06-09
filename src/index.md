@@ -2,15 +2,16 @@
 
 [My Resume][3]
 
-[linkedin Page][1]
+[Blog][6]
+
+[Weibo][5]
 
 [Github Page][2]
 
 [Twitter][4]
 
-[Weibo][5]
 
-[Blog][6]
+
 
 [1]: http://cn.linkedin.com/in/ryanqian/
 [2]: https://github.com/rmrf
