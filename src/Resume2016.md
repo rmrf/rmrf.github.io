@@ -17,7 +17,8 @@ Enjoy Building Things and Troubleshooting
 
 ###Experience###
 
-** Tech Partner ; Enggi.com ; Shanghai, China; 2015.9-Present **
+
+** Tech Partner ; Enggi.com ; Shanghai, China; 2015.9-2016.6 **
 
 	Try Somthing new. 
     Build Tech team from scratch, deliver website product.  
