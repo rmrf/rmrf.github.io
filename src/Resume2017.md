@@ -7,16 +7,21 @@
 
 ###Profile###
 
-A geek, an Engineer, Unix/Linux related Tech. Python/Shell script. 
+An Engineer, Unix/Linux related Tech. Python/Shell script. 
 
 Enjoy Building Things and Troubleshooting
 
-2 Patents (China) applied, another 2 pending.
+4 Patents (China) applied.
 
 1 book translated from English to Chinese [OpenStack Operations Guide - OReilly][2] -> [OpenStack运维指南][3] 
 
 ###Experience###
 
+** Engineer ; Leyantech.com ; Shanghai, China; 2016.6 - Now **
+
+    Infrastructure and System Backend build up.
+	Some Tags here:
+    GRPC, Golang, Container PaaS, Java service, DevOps
 
 ** Tech Partner ; Enggi.com ; Shanghai, China; 2015.9-2016.6 **
 
