@@ -21,7 +21,7 @@ Enjoy Building Things and Troubleshooting
 
     Infrastructure and System Backend build up.
 	Some Tags here:
-    GRPC, Golang, Container PaaS, Java service, DevOps
+    SRE, GRPC, Golang, Container PaaS, Java service, DevOps
 
 ** Tech Partner ; Enggi.com ; Shanghai, China; 2015.9-2016.6 **
 
